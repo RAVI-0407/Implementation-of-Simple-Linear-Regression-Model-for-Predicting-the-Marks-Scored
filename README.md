@@ -21,6 +21,11 @@ To write a program to predict the marks scored by a student using the simple lin
 6.Compare the graphs and hence we obtained the linear regression for the given datas. 
 
 ## Program and Output:
+/*
+Program to implement univariate Linear Regression to fit a straight line using least squares.
+Developed by: RAVIPRASATH K
+RegisterNumber: 212224230225
+*/
 ```
 import pandas as pd
 import numpy as np
